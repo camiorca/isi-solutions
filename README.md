@@ -54,3 +54,33 @@ The scripts which are not working wouldn't be evaluated. Any comments are also w
 Writing a code following PEP 8 is highly recommended.
 
 Solved in q3.py. To successfully run the script please install the Python libraries listed in requirements.txt.
+
+## Q4
+
+Create a command line Python program, which retrieves the information of a GitHub User and creates a new Contact or updates an existing contact in Freshdesk, using their respective APIs.
+ - Use GitHub Rest API v3. Documentation is available at https://developer.github.com/v3/
+ - Use Freshdesk API v2. Documentation is available at https://developers.freshdesk.com/api/
+ - Your program should be able to get GitHub user login (username) and Freshdesk subdomain from the command line.
+ - For authentication assume GitHub personal access token is given in GITHUB_TOKEN environmental variable and Freshdesk API key is given in FRESHDESK_TOKEN environmental variable.
+ - Transfer all compatible fields from the GitHub User to the Freshdesk Contact by your judgment.
+ - Please provide unit tests for the main program functionality. Create a separate module for the unit tests.
+ - While you may create trial accounts in GitHub and Freshdesk, this is not a requirement. You can use the examples from the documentation as test data.
+ - Please provide a README (README.md file) with instructions on how to run the Python program and the tests.
+In order to keep formatting, please encode your script in Base64 and paste it bellow or you can put a link to your code (https://pastebin.com/ for example or a link to GitHub, GitLab, etc.)
+The scripts which are not working wouldn't be evaluated. Any comments are also welcome.
+Writing a code following PEP 8 is highly recommended.
+
+In progress.
+
+## Q5
+
+Pick one of Java, Python or Docker Container type of an artifact that is a typical simple web application. You can pick any open-source project artifact or a simple hello world container.
+Write a simple deployment automation script that deploys the given artifact on AWS.
+Please prepare a presentation to discuss these points:
+* What type of steps you would perform to verify the deployment is successful?
+* Plan and a task break-down how you would implement monitoring of this deployed app.
+* What kind of security policies and scans would you recommend putting into place?
+* What other improvements would you make to the CI/CD process if you had more time?
+* Are there any other good dev-ops tools and practices that you recommend?
+
+In progress.
