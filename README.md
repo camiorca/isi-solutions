@@ -2,6 +2,7 @@
 Repo for ISI Solutions Form questions.
 
 Sadly I got sick and wasn't able to complete the whole challenge, but I'll be happy to solve the rest on a pair-programming call if you'd like.
+If it's ok with you guys, I'll solve the rest of the problems in a different branch just to make sure I'm able to.
 
 ## Q2
 Just imagine that we have already prepared lists of articles that are similar.  You can see an example below: 
